@@ -72,7 +72,6 @@
                             <ObjectIdentifier text="{description}"/>
                             <Text text="{owner}" />    
                             <Text text="{timeline}" />    
-                            <ObjectNumber />
                         </cells>
                     </ColumnListItem>
                 </items>
